@@ -1,4 +1,4 @@
-# Developing-Linear-regression-model-using-C
+# Developing-ML-model-using-C
 
 Experiments: 
 
